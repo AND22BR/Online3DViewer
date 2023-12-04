@@ -1,6 +1,9 @@
 div.ov_panel_set_container div.ov_panel_set_menu
 {
 	float: left;
+	width:auto;
+	padding: 1rem;
+	
 }
 
 div.ov_panel_set_right_container div.ov_panel_set_menu

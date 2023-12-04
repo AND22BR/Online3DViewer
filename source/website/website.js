@@ -707,22 +707,22 @@ export class Website
             this.measureTool.SetActive (isSelected);
         });
         this.measureTool.SetButton (measureToolButton);
-        AddSeparator (this.toolbar, ['only_full_width', 'only_on_model']);
-        AddButton (this.toolbar, 'download', 'Download', ['only_full_width', 'only_on_model'], () => {
-            HandleEvent ('model_downloaded', '');
-            let importer = this.modelLoaderUI.GetImporter ();
-            DownloadModel (importer);
-        });
-        AddButton (this.toolbar, 'export', 'Export', ['only_full_width', 'only_on_model'], () => {
-            ShowExportDialog (this.model, this.viewer, {
-                isMeshVisible : (meshInstanceId) => {
-                    return this.navigator.IsMeshVisible (meshInstanceId);
-                }
-            });
-        });
-        AddButton (this.toolbar, 'share', 'Share', ['only_full_width', 'only_on_model'], () => {
-            ShowSharingDialog (importer.GetFileList (), this.settings, this.viewer);
-        });
+        // AddSeparator (this.toolbar, ['only_full_width', 'only_on_model']);
+        // AddButton (this.toolbar, 'download', 'Download', ['only_full_width', 'only_on_model'], () => {
+        //     HandleEvent ('model_downloaded', '');
+        //     let importer = this.modelLoaderUI.GetImporter ();
+        //     DownloadModel (importer);
+        // });
+        // AddButton (this.toolbar, 'export', 'Export', ['only_full_width', 'only_on_model'], () => {
+        //     ShowExportDialog (this.model, this.viewer, {
+        //         isMeshVisible : (meshInstanceId) => {
+        //             return this.navigator.IsMeshVisible (meshInstanceId);
+        //         }
+        //     });
+        // });
+        // AddButton (this.toolbar, 'share', 'Share', ['only_full_width', 'only_on_model'], () => {
+        //     ShowSharingDialog (importer.GetFileList (), this.settings, this.viewer);
+        // });
         AddSeparator (this.toolbar, ['only_full_width', 'only_on_model']);
         AddButton (this.toolbar, 'snapshot', 'Create snapshot', ['only_full_width', 'only_on_model'], () => {
             ShowSnapshotDialog (this.viewer);

@@ -142,7 +142,9 @@ export class ProgressDialog extends Dialog
         let contentDiv = this.GetContentDiv ();
         contentDiv.classList.add ('ov_progress');
 
-        AddDiv (contentDiv, 'ov_progress_img', '<svg><use href="assets/images/3dviewer_net_logo.svg#logo"></use></svg>');
+        //<img class="m-1 text-center" src="assets/images/VistapointLogoWithWords - Bare.svg" style="width: 150px;"/>
+
+        AddDiv (contentDiv, 'ov_progress_img', '<div class="m-4 overlay text-vistapointblue"><div class="sk-folding-cube"><div class="sk-cube1 sk-cube text-vistapointblue bg-vistapointblue"></div><div class="sk-cube2 sk-cube"></div><div class="sk-cube4 sk-cube"></div><div class="sk-cube3 sk-cube"></div></div></div>');
         this.textDiv = AddDiv (contentDiv, 'ov_progress_text');
         this.SetText (text);
     }

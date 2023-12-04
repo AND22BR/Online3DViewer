@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="57.270737mm"
+   height="9.6936569mm"
+   viewBox="0 0 57.270737 9.6936569"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="VistapointLogoWithWords_White Bare.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#000000"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="4"
+     inkscape:cx="100.625"
+     inkscape:cy="64.125"
+     inkscape:window-width="2400"
+     inkscape:window-height="1261"
+     inkscape:window-x="2391"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="36.603905"
+       y="241.31462"
+       width="661.58167"
+       height="256.22733"
+       id="rect2608" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-14.221103,-82.104255)">
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,17.127717,16.813859)"
+       id="text2606"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect2608);fill:#ffffff;fill-opacity:1;stroke:none"><tspan
+         x="36.603516"
+         y="276.31445"
+         id="tspan833">Vistapoint</tspan></text>
+    <path
+       id="rect846-0"
+       clip-path="none"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0831423;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       d="m 21.014457,83.628027 c -0.951857,-0.0085 -0.866807,0.05183 -1.524315,1.550348 -0.288341,0.637851 -0.532958,1.162206 -0.559172,1.162206 -0.02621,0 -0.349438,-0.61168 -0.725157,-1.354379 L 17.532881,83.631814 H 16.22236 c -1.197056,0 -1.310714,0.01746 -1.39809,0.165982 -0.06991,0.13981 0.174722,0.681594 1.389253,3.084445 l 1.476664,2.909622 h 1.336871 1.336871 l 0.463084,-1.004739 0.463085,-1.004911 0.847594,-0.04367 c 0.943665,-0.04367 1.293178,-0.19222 1.730058,-0.716466 0.690274,-0.812605 0.620284,-2.12325 -0.148627,-2.83973 -0.471833,-0.445622 -0.899893,-0.550499 -2.228013,-0.550499 -0.18349,0 -0.340675,-0.0029 -0.476653,-0.0038 z m -0.432002,0.615504 h 0.987229 c 0.856287,0 1.048546,0.0262 1.380575,0.192173 0.567948,0.297078 0.742671,0.585404 0.742671,1.249464 0,0.602889 -0.131045,0.86508 -0.602877,1.214588 -0.192228,0.148543 -0.410712,0.192257 -1.170886,0.2272 -0.51552,0.0262 -0.978568,0.06977 -1.022257,0.104773 -0.05243,0.0262 -0.227172,0.375721 -0.393188,0.760181 -0.157277,0.393193 -0.323209,0.707794 -0.358162,0.707794 -0.03495,0 -0.235965,-0.35823 -0.454406,-0.786376 l -0.393187,-0.7952 0.454406,-1.022263 c 0.253392,-0.559203 0.541731,-1.205721 0.646583,-1.441637 z" />
+  </g>
+</svg>

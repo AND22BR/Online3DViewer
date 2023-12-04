@@ -77,8 +77,10 @@
 		"@simonwep/pickr": "1.9.0",
 		"draco3d": "1.5.6",
 		"fflate": "0.8.1",
+		"npm": "^10.2.4",
 		"occt-import-js": "0.0.21",
 		"rhino3dm": "7.15.0",
+		"start": "^5.1.0",
 		"three": "0.157.0",
 		"web-ifc": "0.0.44"
 	},
